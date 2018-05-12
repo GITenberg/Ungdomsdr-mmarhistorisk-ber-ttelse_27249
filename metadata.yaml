@@ -19,6 +19,8 @@ creator:
     - http://fi.wikipedia.org/wiki/Zacharias_Topelius
     - http://en.wikipedia.org/wiki/Zachris_Topelius
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/27249#Ungdomsdr-mmarhistorisk-ber-ttelse
 gutenberg_issued: '2008-11-12'
 gutenberg_type: Text
 identifiers:
