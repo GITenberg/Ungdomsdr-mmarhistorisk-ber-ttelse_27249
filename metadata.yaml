@@ -1,0 +1,34 @@
+_repo: Ungdomsdr-mmarhistorisk-ber-ttelse_27249
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Topelius, Zacharias
+    aliases:
+    - Topelius, Zachris
+    - Topelius, Zakarias
+    - Topelius, Zakris
+    - Topelius, Sakarias
+    birthdate: 1818
+    deathdate: 1898
+    gutenberg_agent_id: '6545'
+    url: http://www.gutenberg.org/2009/agents/6545
+    wikipedia:
+    - http://fi.wikipedia.org/wiki/Zacharias_Topelius
+    - http://en.wikipedia.org/wiki/Zachris_Topelius
+description: ''
+gutenberg_issued: '2008-11-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27249'
+language: sv
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Historical fiction'
+- !lcc 'PT'
+title: 'Ungdomsdrömmar: historisk berättelse'
+url: http://www.gutenberg.org/ebooks/27249
